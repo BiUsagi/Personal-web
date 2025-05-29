@@ -1,0 +1,13 @@
+.imgs-project {
+    max-height: 400px;
+    width: 80%;
+    overflow: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fafafa;
+}
+
+ul,
+li {
+    line-height: 2.3;
+}
